@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> My favorite game </title>
+<body>
+  My name is Imran </br>
+</html>
+</head>
+<body>
+  My name is Shan
+</bod>
+<h1>
+  imran
+</h1>
+<h2>
+  Shan
+</h2>
